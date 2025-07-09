@@ -9,3 +9,4 @@ def is_prime(num):
 start = int(input("Enter start of range: "))
 end = int(input("Enter end of range: "))
 print(f"Prime numbers between {start} and {end}:")
+for i in range(start, end + 1):
