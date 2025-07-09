@@ -12,3 +12,4 @@ print(f"Prime numbers between {start} and {end}:")
 for i in range(start, end + 1):
     if is_prime(i):
         print(i, end=' ')
+        print("Print all prime numbers between two numbers ")
