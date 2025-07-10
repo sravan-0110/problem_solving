@@ -5,3 +5,5 @@ def divide_8_digit_numbers(num1, num2):
     if num2 == 0:
         print("Error: Division by zero is not allowed.")
         return
+    result = num1 / num2
+    print(f"{num1} ÷ {num2} = {result}")
