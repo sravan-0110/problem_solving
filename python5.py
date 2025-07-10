@@ -7,3 +7,4 @@ def divide_8_digit_numbers(num1, num2):
         return
     result = num1 / num2
     print(f"{num1} ÷ {num2} = {result}")
+    print(f"division of 8 digit numbers")
